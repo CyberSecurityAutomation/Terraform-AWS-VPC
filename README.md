@@ -3,13 +3,13 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/CyberSecurityAutomation/Terraform-AWS-VPC.svg)](https://github.com/CyberSecurityAutomation/Terraform-AWS-VPC/issues)
 
-[![GitHub forks](https://img.shields.io/github/forks/benoutram/terraform-aws-vpc-example.svg)](https://github.com/benoutram/terraform-aws-vpc-example/network)
+[![GitHub forks](https://img.shields.io/github/forks/CyberSecurityAutomation/Terraform-AWS-VPC.svg)](https://github.com/CyberSecurityAutomation/Terraform-AWS-VPC/network)
 
-[![GitHub stars](https://img.shields.io/github/stars/benoutram/terraform-aws-vpc-example.svg)](https://github.com/benoutram/terraform-aws-vpc-example/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/CyberSecurityAutomation/Terraform-AWS-VPC.svg)](https://github.com/CyberSecurityAutomation/Terraform-AWS-VPC/stargazers)
 
-[![GitHub license](https://img.shields.io/github/license/benoutram/terraform-aws-vpc-example.svg)](https://github.com/benoutram/terraform-aws-vpc-example/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/CyberSecurityAutomation/Terraform-AWS-VPC.svg)](https://github.com/CyberSecurityAutomation/Terraform-AWS-VPC/blob/master/LICENSE)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/benoutram.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=benoutram)
+
 
 ## What is this repository for? ##
 
