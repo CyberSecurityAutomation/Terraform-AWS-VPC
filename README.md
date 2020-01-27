@@ -1,7 +1,7 @@
 
 # Terraform AWS VPC Example #
 
-[![GitHub issues](https://img.shields.io/github/issues/CyberSecurityAutomation/Terraform-AWS-VPC.svg)](https://github.com/benoutram/terraform-aws-vpc-example/issues)
+[![GitHub issues](https://img.shields.io/github/issues/CyberSecurityAutomation/Terraform-AWS-VPC.svg)](https://github.com/CyberSecurityAutomation/Terraform-AWS-VPC/issues)
 
 [![GitHub forks](https://img.shields.io/github/forks/benoutram/terraform-aws-vpc-example.svg)](https://github.com/benoutram/terraform-aws-vpc-example/network)
 
